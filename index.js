@@ -156,7 +156,7 @@ async function updateEmployeeRole() {
     // THE PROPERTY value SHOULD CONTAIN id.
     // THIS OBJECT FOR EACH MANAGER WILL RETURN TO MAP() TO CONSTRUCT AN ARRAY TO BE RETURNED AND BE STORED TO managerChoices.
     // TODO: YOUR CODE HERE
-    name: {first_name, last_name},
+    name: `${first_name, last_name}`,
     value: id
 
   }));
@@ -173,7 +173,7 @@ async function updateEmployeeRole() {
   const roles = await db.findAllRoles();
 
   const roleChoices = roles.map(({ id, title }) => ({
-    name: title,
+    name: `${title}`,
     value: id
   }));
 
