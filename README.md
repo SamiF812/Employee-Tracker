@@ -6,7 +6,8 @@ Github Repo: https://github.com/SamiF812/Employee-Tracker
 Demo Video Link: https://youtu.be/YRiRNYN7NHI
 
 
-![shot1](./db/assets/images/Employee_Manager_pic.png)
+
+![shot1](./db/assets/images/Employee_Manager_pic.png);
 
 
 ## Description
