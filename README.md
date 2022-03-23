@@ -1,7 +1,8 @@
 # Employee-Tracker
 
 ## Link
-Github Repo: 
+Github Repo: https://github.com/SamiF812/Employee-Tracker
+Demo Video Link: 
 
 
 ## Description

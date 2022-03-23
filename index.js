@@ -293,7 +293,7 @@ async function addEmployee() {
     // THIS OBJECT FOR EACH MANAGER WILL RETURN TO MAP() TO CONSTRUCT AN ARRAY TO BE RETURNED AND BE STORED TO managerChoices.
     // TODO: YOUR CODE HERE
     // completed 3/22
-    name: {first_name, last_name},
+    name: `${first_name} ${last_name}`,
     value: id
 
   }));
